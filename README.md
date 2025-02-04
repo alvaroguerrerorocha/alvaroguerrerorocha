@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi there, I'm Alvaro Yesid Guerrero Rocha 
 
-<!--
-**alvaroguerrerorocha/alvaroguerrerorocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate about AI, photography, and creative coding.  
+📸 Capturing moments with both cameras and code.  
+💡 Exploring new technologies and storytelling techniques.  
 
-Here are some ideas to get you started:
+## 🚀 What I'm working on    
+- 🔹 **[Project 2](#)** – A minimalistic portfolio template  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Skills  
+- 🔹 **Programming:** Python, JavaScript, C++  
+- 🔹 **AI & Data Science:** Machine Learning, Computer Vision  
+- 🔹 **Photography & Visuals:** Lightroom, Photoshop  
+
+## 📫 Connect with me  
+[![LinkedIn](https://www.linkedin.com/in/alvaro-yesid-guerrero-rocha-7b0752309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![Instagram]([https://img.shields.io/badge/Instagram-@tuusuario-pink?style=flat&logo=instagram)](https://instagram.com/tuusuario](https://www.instagram.com/alvaritoguerrero_/))  
+[![GitHub Stats](https://github.com/alvaroguerrerorocha)
