@@ -14,5 +14,5 @@
 
 ## 📫 Connect with me  
 [![LinkedIn](https://www.linkedin.com/in/alvaro-yesid-guerrero-rocha-7b0752309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
-[![Instagram]([https://img.shields.io/badge/Instagram-@tuusuario-pink?style=flat&logo=instagram)](https://instagram.com/tuusuario](https://www.instagram.com/alvaritoguerrero_/))  
+[![Instagram](https://www.instagram.com/alvaritoguerrero_/) )  
 [![GitHub Stats](https://github.com/alvaroguerrerorocha)
