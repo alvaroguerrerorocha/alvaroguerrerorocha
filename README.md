@@ -13,6 +13,6 @@
 - 🔹 **Photography & Visuals:** Lightroom, Photoshop  
 
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alvaro-yesid-guerrero-rocha-7b0752309/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
 [![Instagram](https://img.shields.io/badge/Instagram-@alvaritoguerrero_-pink?style=flat&logo=instagram)](https://instagram.com/alvaritoguerrero_)  
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvaroguerrerorocha&show_icons=true&theme=tokyonight)](https://github.com/alvaroguerrerorocha)
