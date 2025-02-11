@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Alvaro Yesid Guerrero Rocha 
 
-https://i.pinimg.com/736x/b5/e5/77/b5e5770a80c2b0aea9fcb1667a35f708.jpg![image](https://github.com/user-attachments/assets/81415e2b-62a2-46bc-af5d-0b95e054c008)
+![b5e5770a80c2b0aea9fcb1667a35f708](https://github.com/user-attachments/assets/6e595540-9d42-4a3f-a9ff-f19bfb685537)
 
 
 🎯 Passionate about AI, photography, and creative coding.  
