@@ -8,7 +8,7 @@
 💡 Exploring new technologies and storytelling techniques.  
 
 ## 🚀 What I'm working on    
-- 🔹 **[Project 1](#)** – A minimalistic portfolio template  
+- 🔹 **[Project 1](https://github.com/alvaroguerrerorocha/PortfolioAlvarito.git)** – A minimalistic portfolio template  
 
 ## 📚 Skills  
 - 🔹 **Programming:** Python, JavaScript, C++  
