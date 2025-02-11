@@ -1,5 +1,7 @@
 # 👋 Hi there, I'm Alvaro Yesid Guerrero Rocha 
-![titlecodeweb](https://github.com/user-attachments/assets/d810bb04-c03b-4433-837d-3cb285cf60de)
+
+https://i.pinimg.com/736x/b5/e5/77/b5e5770a80c2b0aea9fcb1667a35f708.jpg![image](https://github.com/user-attachments/assets/81415e2b-62a2-46bc-af5d-0b95e054c008)
+
 
 🎯 Passionate about AI, photography, and creative coding.  
 📸 Capturing moments with both cameras and code.  
